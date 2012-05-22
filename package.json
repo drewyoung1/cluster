@@ -1,5 +1,5 @@
 {
-  "name": "node-cluster",
+  "name": "learnboost-cluster",
   "description": "extensible multi-core server manager",
   "keywords": ["server", "spark", "fugue", "tcp", "workers"],
   "version": "0.7.7",
